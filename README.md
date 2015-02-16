@@ -2,7 +2,7 @@
 
 The goals of the Punctuated Equilibrium project are lofty, probably not even achievable, but I feel the need to try it out anyway.
 
-"punctuated equilibrium" is an evolution concept that is counter to the evolutionary concept of "gradualism." When we look at fossil records, we see that speciation remains relatively stable for long periods of time only to be disrupted by short periods of massive speciation change until a balance of sorts is achieved. It's almost as if the small changes that are a part of everyday species adaptation build to a breaking point and something needs to happen to rebalance the system.
+"punctuated equilibrium" is an evolution concept that is counter to the evolutionary concept of "gradualism." (http://en.wikipedia.org/wiki/Punctuated_equilibrium) When we look at fossil records, we see that speciation remains relatively stable for long periods of time only to be disrupted by short periods of massive speciation change until a balance of sorts is achieved. It's almost as if the small changes that are a part of everyday species adaptation build to a breaking point and something needs to happen to rebalance the system.
 
 This software project is going to explore the same "punctuated equilibrium" phenomena applied to artificial intelligence. 
 
