@@ -1,4 +1,4 @@
-# punctuated_equilibrium
+# Punctuated Equilibrium
 
 The goals of the Punctuated Equilibrium project are lofty, probably not even achievable, but I feel the need to try it out anyway.
 
